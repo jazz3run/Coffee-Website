@@ -1,5 +1,6 @@
 # Responsive Coffee Website
 
+- Using Git To Manage Versions
 - Responsive Coffee Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
