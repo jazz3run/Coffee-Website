@@ -7,4 +7,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](https://github.com/jazz3run/Coffee.website/blob/main/Coffe%20Website/preview.png)
+
+![preview img](preview.png)
+
