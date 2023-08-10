@@ -41,7 +41,7 @@
 }
 
 /*========== Responsive typography ==========*/
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1018px) {
   :root {
     --biggest-font-size: 4.5rem;
     --big-font-size: 3rem;
@@ -747,7 +747,7 @@ img {
 }
 
 /* For large devices */
-@media screen and (min-width: 1023px){
+@media screen and (min-width: 1018px){
   .section{
     padding-block: 7.5rem 5.5rem;
     --border-section: 104px 104px 0 0;
