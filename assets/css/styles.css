@@ -595,6 +595,10 @@ img {
   font-size: var(--small-font-size);
 }
 
+.footer__description a{
+  cursor: pointer;
+}
+
 .footer__privacy{
   color: var(--second-color);
 }
